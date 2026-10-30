@@ -1,0 +1,35 @@
+# Dependencias
+node_modules/
+
+# Claves y variables de entorno (NUNCA subir)
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+config.local.*
+application-local.properties
+application-secret.properties
+
+# Compilados y builds
+dist/
+build/
+target/
+*.class
+*.jar
+
+# Logs
+*.log
+npm-debug.log*
+
+# Editores y sistema operativo
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Bases de datos locales
+*.sqlite
+*.db

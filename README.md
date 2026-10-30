@@ -2,10 +2,9 @@
 
 Landing page de una tienda en línea de equipamiento para deportes de conjunto (fútbol, básquetbol y fútbol americano) en México. Proyecto desarrollado durante el hackathon de Generation México.
 
-🔗 **Demo:** https://jesusperalta0.github.io/esfera-deportiva/
+🔗 **Demo:** https://jesusperalta0.github.io/Esfera-Deportiva/
 
 <img src="img/captura.png" alt="Captura de Esfera Deportiva" width="800">
-
 
 ## Características
 
@@ -37,8 +36,8 @@ Trabajé como desarrollador front-end en un equipo de 4 personas durante un hack
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/JesusPeralta0/esfera-deportiva.git
-   cd esfera-deportiva
+   git clone https://github.com/JesusPeralta0/Esfera-Deportiva.git
+   cd Esfera-Deportiva
    ```
 2. Instala las dependencias:
    ```bash
@@ -53,7 +52,7 @@ Trabajé como desarrollador front-end en un equipo de 4 personas durante un hack
 ## Estructura
 
 ```
-esfera-deportiva/
+Esfera-Deportiva/
 ├── index.html
 ├── src/
 │   ├── styles.css
@@ -64,7 +63,9 @@ esfera-deportiva/
 └── README.md
 ```
 
-Proyecto desarrollado en equipo de 4 personas durante el hackathon de Generation México. Este repositorio es una copia personal; el repositorio original del equipo está aquí: cbas-o7/HACKATON-1-GEN.
+## Equipo
+
+Proyecto desarrollado en equipo de 4 personas durante el hackathon de Generation México. Este repositorio es una copia personal; el repositorio original del equipo está aquí: [cbas-o7/HACKATON-1-GEN](https://github.com/cbas-o7/HACKATON-1-GEN).
 
 ## Autor
 
